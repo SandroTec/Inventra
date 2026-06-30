@@ -1,0 +1,18 @@
+.status-in-use {
+  color: orange;
+  font-weight: bold;
+}
+
+.status-available {
+  color: rgb(22, 233, 22);
+  font-weight: bold;
+}
+
+.status-broken {
+  color: red;
+  font-weight: bold;
+}
+
+.status-default {
+  color: gray;
+}
